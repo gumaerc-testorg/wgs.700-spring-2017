@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Project 1
+parent_type: CourseSection
 parent_uid: 18a24a2c-47d3-bd88-acfb-f992c59b8871
 title: References
 uid: fe6651e6-3867-ca9c-4c91-fb770a432c36

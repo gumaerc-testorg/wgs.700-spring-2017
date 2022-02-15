@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: f446a4d9-569b-122f-4184-00c4261614f0
 title: Instructors
 uid: 5a95f650-85b0-4cd4-8efc-71277dcd0594

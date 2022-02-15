@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: f446a4d9-569b-122f-4184-00c4261614f0
 title: Course Requirements and Assessment
 uid: 4c6bc964-b2ea-579a-2ce8-9e3638988583
@@ -101,7 +104,7 @@ C
 F
 {{< tdclose >}}
 {{< tdopen >}}
-<50
+\<50
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Project 3
+parent_type: CourseSection
 parent_uid: bd61e886-b98d-09e5-9fdd-cf99177895ce
 title: Sequence of Steps and Classes
 uid: f0405fc0-8adb-02cc-73e0-559bf1b1185f
