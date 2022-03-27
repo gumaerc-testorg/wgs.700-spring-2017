@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructors
 parent_type: CourseSection
+parent_uid: 5a95f650-85b0-4cd4-8efc-71277dcd0594
 resourcetype: Image
 title: Taylor.jpg
 uid: 9d293603-8329-f7af-0db5-1ff9814885a5

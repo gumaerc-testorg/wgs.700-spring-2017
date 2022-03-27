@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Project 1
 parent_type: CourseSection
+parent_uid: 18a24a2c-47d3-bd88-acfb-f992c59b8871
 resourcetype: Image
 title: primate.jpg
 uid: 82239cb3-c783-88a2-93e7-8260e5d40c51

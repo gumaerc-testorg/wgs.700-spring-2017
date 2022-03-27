@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Project 4
 parent_type: CourseSection
+parent_uid: 75c878be-f548-3cfb-fb1d-1bf47c77aaa0
 resourcetype: Image
 title: learn.jpg
 uid: 58645480-3c1d-83a7-9d37-392435fb95b8

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructors
 parent_type: CourseSection
+parent_uid: 5a95f650-85b0-4cd4-8efc-71277dcd0594
 resourcetype: Image
 title: Campbell.jpg
 uid: b449abe8-e60b-be7e-6a19-d2a21ceba867
