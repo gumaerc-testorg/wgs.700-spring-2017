@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Project 3
 uid: bd61e886-b98d-09e5-9fdd-cf99177895ce
 ---
@@ -18,7 +19,7 @@ First let us set the scene:
 
 (Image by [Caroline Davis2010](https://www.flickr.com/photos/53416677@N08/4972914961/in/dateposted/) on flickr. CC BY.)
 
-Since the advent of the Human Genome Project, there has been a proliferation of discourse (in scientific journals, the popular press, and in cultural productions) about genetics, the gene, the genome, genomics, epigenetics, biotechnology, gene-based personalized medicine, synthetic biology, and so on. Some of this discourse includes new or revived claims about race and gender (see [Bibliography]({{< baseurl >}}/pages/bibliography) on genetics, kinship, social media, race, gender). In the same period we have seen the rise of the internet and social media, with accompanying claims that, for example, “the Web… is challenging the bedrock concepts of our culture: space, time, matter, knowledge, morality, etc.” given that it resists the idea that knowledge should be “context-free and universal.” The Web provides “databases” of information and at the same time “reveal\[s\] what you weren’t expecting… a link we hadn’t seen, an unfolding we hadn’t anticipated… Making a decision means deciding which… “inputs” to value and how to fit them together to make a coherent story” (Weinberger 2002). At the same time, as internet skeptics, such as Morozov (2011), remind us, there is a “dangerous fascination with solving previously intractable social problems with the help of technology \[that\] allows vested interests to disguise what essentially amounts to advertising for their commercial products in the language of freedom and liberation.”
+Since the advent of the Human Genome Project, there has been a proliferation of discourse (in scientific journals, the popular press, and in cultural productions) about genetics, the gene, the genome, genomics, epigenetics, biotechnology, gene-based personalized medicine, synthetic biology, and so on. Some of this discourse includes new or revived claims about race and gender (see {{< resource_link 578b6beb-d426-9fc7-3ecd-2b028e9cdfe4 "Bibliography" >}} on genetics, kinship, social media, race, gender). In the same period we have seen the rise of the internet and social media, with accompanying claims that, for example, “the Web… is challenging the bedrock concepts of our culture: space, time, matter, knowledge, morality, etc.” given that it resists the idea that knowledge should be “context-free and universal.” The Web provides “databases” of information and at the same time “reveal\[s\] what you weren’t expecting… a link we hadn’t seen, an unfolding we hadn’t anticipated… Making a decision means deciding which… “inputs” to value and how to fit them together to make a coherent story” (Weinberger 2002). At the same time, as internet skeptics, such as Morozov (2011), remind us, there is a “dangerous fascination with solving previously intractable social problems with the help of technology \[that\] allows vested interests to disguise what essentially amounts to advertising for their commercial products in the language of freedom and liberation.”
 
 Now for the project proper:
 

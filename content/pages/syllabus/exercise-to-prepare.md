@@ -20,7 +20,7 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
 
 ### Exercise
 
-1.  Re-read scenario for [Project 1]({{< baseurl >}}/pages/project-1). Read and post an annotation of Haraway, Donna J."[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936](https://www.jstor.org/stable/466593?seq=1#page_scan_tab_contents)." _Social Text_ 11 (Winter 1984–1985): 20–64. View the [Paper Tiger video](https://www.cctv.org/watch-tv/programs/donna-haraway-reads-national-geographic-primates-ted-koppels-long-march-viewed-dan), stopping every few minutes to make notes (4 parts; 1, 2, 3, 4).
+1.  Re-read scenario for {{< resource_link 18a24a2c-47d3-bd88-acfb-f992c59b8871 "Project 1" >}}. Read and post an annotation of Haraway, Donna J."[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936](https://www.jstor.org/stable/466593?seq=1#page_scan_tab_contents)." _Social Text_ 11 (Winter 1984–1985): 20–64. View the [Paper Tiger video](https://www.cctv.org/watch-tv/programs/donna-haraway-reads-national-geographic-primates-ted-koppels-long-march-viewed-dan), stopping every few minutes to make notes (4 parts; 1, 2, 3, 4).
     
     Note questions that interest you opened up by connections that Haraway draws. Prepare, then later post as comments/replies on the blog, at least 5 Knowldege claims of Haraway's in the video or "Teddy Bear Patriarchy" chapter, related to the issue of establishment of knowledge in a certain place at a certain time for a certain people.
     
@@ -34,7 +34,7 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
     
     In Class 3, we will review these inquiries with a view to your inquiring further over the next week and preparing focused presentations for Week 4. Feedback from the instructors on this exercise should help in focusing your inquiries and preparing your presentations.
     
-2.  Work in progress presentation on [Project 2]({{< baseurl >}}/pages/project-2) as described by Taylor and Szeiter: "When you prepare to give a presentation, when you hear yourselves deliver your presentations, and when you get feedback, it usually leads to self-clarification of the Overall Argument underlying your research and the eventual written reports. This, in turn, influences your priorities (see Research Design) for the time remaining."
+2.  Work in progress presentation on {{< resource_link 61a72732-2135-95b0-b56f-badd63e12490 "Project 2" >}} as described by Taylor and Szeiter: "When you prepare to give a presentation, when you hear yourselves deliver your presentations, and when you get feedback, it usually leads to self-clarification of the Overall Argument underlying your research and the eventual written reports. This, in turn, influences your priorities (see Research Design) for the time remaining."
     
 3.  Situational Map
     
@@ -48,7 +48,7 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
     
     Here is an example from a previous year:
     
-    Come to class prepared to speak about the processing of mapping the complexity, the outcome, and what you plan to carry over into your inquiries for [Project 3]({{< baseurl >}}/pages/project-3).
+    Come to class prepared to speak about the processing of mapping the complexity, the outcome, and what you plan to carry over into your inquiries for {{< resource_link bd61e886-b98d-09e5-9fdd-cf99177895ce "Project 3" >}}.
     
     ### Websites as entry points to the complexity:
     

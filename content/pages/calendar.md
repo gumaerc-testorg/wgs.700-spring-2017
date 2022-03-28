@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: 008cb48c-f161-c8e9-0503-c37768300110
 ---
@@ -59,7 +60,7 @@ Prompt for journal entry: After class 1 and before class 2: Reflect on the “co
 2–4
 {{< tdclose >}}
 {{< tdopen >}}
-[Project 1]({{< baseurl >}}/pages/project-1): What does it cost to establish knowledge in a certain place at a certain time for a certain people?
+{{< resource_link 18a24a2c-47d3-bd88-acfb-f992c59b8871 "Project 1" >}}: What does it cost to establish knowledge in a certain place at a certain time for a certain people?
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +69,7 @@ Prompt for journal entry: After class 1 and before class 2: Reflect on the “co
 5–7
 {{< tdclose >}}
 {{< tdopen >}}
-[Project 2]({{< baseurl >}}/pages/project-2): Science and literature exploring life on the near-future earth
+{{< resource_link 61a72732-2135-95b0-b56f-badd63e12490 "Project 2" >}}: Science and literature exploring life on the near-future earth
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +78,7 @@ Prompt for journal entry: After class 1 and before class 2: Reflect on the “co
 8–10
 {{< tdclose >}}
 {{< tdopen >}}
-[Project 3]({{< baseurl >}}/pages/project-3): Genomic citizens and misfits in a digital age
+{{< resource_link bd61e886-b98d-09e5-9fdd-cf99177895ce "Project 3" >}}: Genomic citizens and misfits in a digital age
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ Prompt for journal entry: After class 1 and before class 2: Reflect on the “co
 11–13
 {{< tdclose >}}
 {{< tdopen >}}
-[Project 4]({{< baseurl >}}/pages/project-4): Plans for practice
+{{< resource_link 75c878be-f548-3cfb-fb1d-1bf47c77aaa0 "Project 4" >}}: Plans for practice
 {{< tdclose >}}
 
 {{< trclose >}}

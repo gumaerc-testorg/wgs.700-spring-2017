@@ -43,7 +43,7 @@ Mary: Agreed. I would also point to Edward Tufte’s work, especially The Visual
 Annotations
 -----------
 
-In order to learn from the inquiries of the other students, annotated references or resources (= person, organization…) related to the projects or common readings should be added (regularly, not all in a clump) to the evolving [bibliography]({{< baseurl >}}/pages/bibliography). (Annotations should convey the article’s key points as well as its connection to the student’s own inquiries and interests. Examples from past years will be provided. Prepare first on your computer, then copy and paste the annotated reference into blog. Specify the category Bibliography.)
+In order to learn from the inquiries of the other students, annotated references or resources (= person, organization…) related to the projects or common readings should be added (regularly, not all in a clump) to the evolving {{< resource_link 578b6beb-d426-9fc7-3ecd-2b028e9cdfe4 "bibliography" >}}. (Annotations should convey the article’s key points as well as its connection to the student’s own inquiries and interests. Examples from past years will be provided. Prepare first on your computer, then copy and paste the annotated reference into blog. Specify the category Bibliography.)
 
 Dialogue Around Written Work
 ----------------------------

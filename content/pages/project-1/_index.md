@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Project 1
 uid: 18a24a2c-47d3-bd88-acfb-f992c59b8871
 ---
@@ -24,4 +25,4 @@ What does it cost to advance a scientific account or an interpretation in a cert
 
 In what ways can we learn to teach/engage others to interpet the cultural dimensions of science?
 
-(Note: Haraway's 1989 account of primate studies, as well as Octavia Butler's 1987–89 [_Xenogenesis_](https://en.wikipedia.org/wiki/Octavia_E._Butler#Bloodchild_and_the_Xenogenesis_trilogy:_1984.E2.80.931989), which enters [Project 3]({{< baseurl >}}/pages/project-3), might be seen as inspiration or precursors for the active field of animal studies, which is currently active in expanding the category of sentience, even citizenship, beyond the historically traumatic category of the "human.")
+(Note: Haraway's 1989 account of primate studies, as well as Octavia Butler's 1987–89 [_Xenogenesis_](https://en.wikipedia.org/wiki/Octavia_E._Butler#Bloodchild_and_the_Xenogenesis_trilogy:_1984.E2.80.931989), which enters {{< resource_link bd61e886-b98d-09e5-9fdd-cf99177895ce "Project 3" >}}, might be seen as inspiration or precursors for the active field of animal studies, which is currently active in expanding the category of sentience, even citizenship, beyond the historically traumatic category of the "human.")
