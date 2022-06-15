@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/c31ca6abe83b3a935da6c1108153171b_project2.jpg
+file: /courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/c31ca6abe83b3a935da6c1108153171b_project2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A sign held by a protester at a climate change protest.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of citations of readings used for this
+  project. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Project 2

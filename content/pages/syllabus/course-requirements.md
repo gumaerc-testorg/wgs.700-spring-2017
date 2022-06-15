@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section details the requirements for the course and what is expected
+  of the student
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
