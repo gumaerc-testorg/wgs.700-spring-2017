@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains a list of citations of readings used for this
+  project. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Project 2
+parent_type: CourseSection
 parent_uid: 61a72732-2135-95b0-b56f-badd63e12490
 title: References
 uid: 233ff384-caf7-b1af-6425-f3098e1bc73e

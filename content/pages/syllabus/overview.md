@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: 'This section provides an overview of the course. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: f446a4d9-569b-122f-4184-00c4261614f0
 title: Overview
 uid: dcbeb6ff-c772-463d-4382-510968d9b3a2
