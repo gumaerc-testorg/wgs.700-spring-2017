@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'A photo of a laptop, a pair of glasses, and an open notebook with a
     pen resting on it. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Project 4
 parent_type: CourseSection

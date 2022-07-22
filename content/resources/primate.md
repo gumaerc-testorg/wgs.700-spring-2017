@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Image by The Climate Coalition(UK)on Flickr. Cc: BY-NC-SA.'
   image-alt: 'A photograph of a female gorilla, holding her baby in her arms. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Project 1
 parent_type: CourseSection

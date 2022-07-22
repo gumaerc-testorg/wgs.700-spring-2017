@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'A sign made out of cardboard that says "The seas are rising and so are
     the moms." '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Project 2
 parent_type: CourseSection
