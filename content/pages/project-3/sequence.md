@@ -27,7 +27,7 @@ Compare and contrast your situational map and the others.
 
 *Focal Reading*
 
-Jesser, Nancy. "[Blood, Genes and Gender in Octavia Butler's *Kindred* and *Dawn*](http://online.liverpooluniversitypress.co.uk/doi/abs/10.3828/extr.2002.43.1.05)." *Extrapolation* 43, no. 1 (2002).
+Jesser, Nancy. "[Blood, Genes and Gender in Octavia Butler's *Kindred* and *Dawn*](https://go.gale.com/ps/i.do?id=GALE%7CA87128335&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00145483&p=AONE&sw=w&userGroupName=mlin_oweb&isGeoAuthType=true&aty=geo)." *Extrapolation* 43, no. 1 (2002).
 
 *Prompt for Journal Entry (between class 9 and 10)*
 
