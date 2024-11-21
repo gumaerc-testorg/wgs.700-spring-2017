@@ -9,21 +9,17 @@ uid: 578b6beb-d426-9fc7-3ecd-2b028e9cdfe4
 ---
 \[Handbook\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083645)  Hackett, Edward J., Olga Amsterdamska, et al. *The Handbook of Science and Technology Studies Third Edition.* The MIT Press, 2007. ISBN: 9780262083645. 
 
-[Annotated bibliography assembled from student contributions (PDF - 11.1MB)](http://grst.wikispaces.umb.edu/file/view/ChangingLife2017Bibliography.pdf)
+Arnason, Eleanor. *Mammoths of the Great Plains.* PM Press, 2010. ISBN: 978604860757.
 
-[Faculty self-evaluation](http://grst.wikispaces.umb.edu/EvaluationPT2017)
+Atwood, Margaret. *The Year of the Flood.* Anchor, 2010. ISBN: 9780307455475.
 
- Arnason, Eleanor. *Mammoths of the Great Plains.* PM Press, 2010. ISBN: 978604860757.
-
- Atwood, Margaret. *The Year of the Flood.* Anchor, 2010. ISBN: 9780307455475.
-
- Barr, Marlene S. *Afro-Future Females: Black Writers Chart Science Fiction's Newest-Wave Trajectory.* Ohio State University Press, 2008. ISBN:9780814210789.
+Barr, Marlene S. *Afro-Future Females: Black Writers Chart Science Fiction's Newest-Wave Trajectory.* Ohio State University Press, 2008. ISBN:9780814210789.
 
 Birke, Lynda. "[Intimate Familiarities? Feminism and Human-Animal Studies](http://booksandjournals.brillonline.com/content/journals/10.1163/156853002320936917)." *Society & Animals* 10, no. 4 (2002): 429–436. 
 
 Braidotti, Rosi. "Cyberteratologies: Female Monsters Negotiate the Other's Participation in Humanity's Far Future." In *Envisioning the Future: Science Fiction and the Next Millennium.* Edited by Maureen S. Barr. Wesleyan, 2003. ISBN: 9780819566522. 
 
- Butler, Octavia. *Dawn (Xenogenesis Book One).* Aspect, 1997. ISBN: 9780446603775.
+Butler, Octavia. *Dawn (Xenogenesis Book One).* Aspect, 1997. ISBN: 9780446603775.
 
 — — —. *Adulthood Rites (Xenogenesis Book Two).* Aspect, 1997. ISBN: 9780446603782. 
 
@@ -35,17 +31,17 @@ Clarke, Adele E. "Doing Situational Maps and Analysis." *Situational Analysis: 
 
 Campbell, Mary Baine. "[Busy Bees: Utopia, Dystopia, and the Very Small" (PDF - 2.53MB)](http://jmems.dukejournals.org/content/36/3/619.full.pdf). *Journal of Medieval and Early Modern Studies* 36, no. 3 (2006): 619–642. 
 
- Creager, Angela N.H., Elizabeth Lunbeck, and Londa Schiebinger. *Feminism in Twentieth-Century Science, Technology, and Medicine*. University of Chicago Press, 2001. ISBN: 97802261020249. 
+Creager, Angela N.H., Elizabeth Lunbeck, and Londa Schiebinger. *Feminism in Twentieth-Century Science, Technology, and Medicine*. University of Chicago Press, 2001. ISBN: 97802261020249. 
 
- Delaney, Samuel R. "[Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'](https://muse.jhu.edu/book/1820)" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
+Delaney, Samuel R. "[Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'](https://muse.jhu.edu/book/1820)" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
 
- Douglas, Mary. "The Abominations of Leviticus." In *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. Routledge, 2002. ISBN: 9780415289955. 
+Douglas, Mary. "The Abominations of Leviticus." In *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. Routledge, 2002. ISBN: 9780415289955. 
 
 Duchamp, L. Timmel. "[The Forbidden Words of Margaret A.](http://ltimmelduchamp.com/stories/margaret.pdf)" 
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262035682) Felt, Ulrike, Rayvon Flouché, et al. *The Handbook of Science and Technology Studies Fourth Edition*. The MIT Press, 2016. ISBN: 9780262035682.
 
- Glantz, Michael H. *Societal Responses to Regional Climatic Change: Forecasting By Analogy.* Westview Press, 1988. ISBN: 9780813376394.
+Glantz, Michael H. *Societal Responses to Regional Climatic Change: Forecasting By Analogy.* Westview Press, 1988. ISBN: 9780813376394.
 
 Goto, H. "Tales from the Beast." *Absinthe*, 1995. 
 
@@ -65,13 +61,13 @@ Idema, Tom. "[Toward a Minor Science Fiction: Literature, Science, and the Shock
 
 Institute of Contemporary Art. "[Leap Before You Look: Black Mountain College 1933–1957](https://www.youtube.com/watch?v=9URP8GgSg5M)." YouTube. 2015.
 
- Kleinman, Daniel Lee, and Kelly Moore. *Routledge Handbook of Science, Technology,, and Society*. Routledge, 2014. ISBN: 9780415531528. 
+Kleinman, Daniel Lee, and Kelly Moore. *Routledge Handbook of Science, Technology,, and Society*. Routledge, 2014. ISBN: 9780415531528. 
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514248)  Krieger, Nancy. "The Science and Epidemiology of Racism and Health: Racial/Ethnic Categories, Biological Expressions of Racism, and the Embodiment of Inequality—an Ecosocial Perspective." In *What's the Use of Race?: Modern Governance and the Biology of Difference*. Edited by Ian Whitmarsh and David S. Jones. The MIT Press, 2010. ISBN: 9780262514248.
 
 \[Handbook\] Lakoff, Andrew. "The Right Patients for the Drug: Pharmaceutical Circuits and the Codification of Illness." 
 
- Law, John, and Annemarie Mol. *Complexities: Social Studies of Knowledge Practices*. Duke University Press, 2002. ISBN: 9780822328649. 
+Law, John, and Annemarie Mol. *Complexities: Social Studies of Knowledge Practices*. Duke University Press, 2002. ISBN: 9780822328649. 
 
 \[Handbook\] Lock, Margaret. "Biomedical Technologies, Cultural Horizons, and Contested Boundaries."
 
@@ -87,7 +83,7 @@ misterclochard. "[Sun Ra/Space is the Place](https://www.youtube.com/watch?v=dok
 
 Mitchison, Naomi. *Solution Three*. The Feminist Press at CUNY, 1995. ISBN: 978558610965. 
 
- Monbiot, George. *Heat: How to Stop the Planet from Burning.* South End Press, 2007. ISBN:9780896087798.
+Monbiot, George. *Heat: How to Stop the Planet from Burning.* South End Press, 2007. ISBN:9780896087798.
 
 Moore, Kelly, David Lee Kleinman, et al. "[Science and Neoliberal Globalization: A Political Sociological Approach](https://link.springer.com/article/10.1007/s11186-011-9147-3)." *Theory and Society* 40, no. 5 (2011): 505–532.
 
@@ -97,7 +93,7 @@ Palwick, Susan. "Gestella." In *Starlight 3*. Edited by Patrick Nielsen Hayden. 
 
 Paper Tiger TV. "[Donna Haraway Reads *The National Geographic* on Primates](https://www.cctv.org/watch-tv/programs/donna-haraway-reads-national-geographic-primates-ted-koppels-long-march-viewed-dan)." 1987. 
 
- Richter, Anne. "The Sleep of Plants." In *Sisters of the Revolution: A Feminist Speculative Fiction Anthology*. Edited by Ann VanderMeer and Jeff VanderMeer. PM Press, 2015. ISBN:9781629630359.
+Richter, Anne. "The Sleep of Plants." In *Sisters of the Revolution: A Feminist Speculative Fiction Anthology*. Edited by Ann VanderMeer and Jeff VanderMeer. PM Press, 2015. ISBN:9781629630359.
 
 Surkan, KJ. Petition "[Free the Data](https://www.change.org/p/mark-c-capone-ceo-of-myriad-genetics-myriad-genetics-give-us-our-damn-brca-data?recruiter=2866415&utm_source=share_for_starters&utm_medium=copyLink)." 2015. 
 
@@ -115,4 +111,4 @@ Weinberger, David. *Small Pieces Loosely Joined: A Unified Theory of the Web*. B
 
 Williams, Isobel. "[Kancer Sutra](https://muse.jhu.edu/article/555899)." *Configurations* 22, no 2. (2014):229–236. Project MUSE. 
 
- Womack, Ytasha L. "Project Imagination." In *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*. Chicago Review Press, 2013. ISBN:978161374796.
+Womack, Ytasha L. "Project Imagination." In *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*. Chicago Review Press, 2013. ISBN:978161374796.
