@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/9d2936038329f7af0db51ff9814885a5_Taylor.jpg
+file: /courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/9d2936038329f7af0db51ff9814885a5_Taylor.jpg
 file_size: 23929
 file_type: image/jpeg
 image_metadata:
