@@ -19,11 +19,11 @@ Practice leading everyone in an activity, lesson etc. from your plan for practic
 
 *Focal Readings*
 
-Campbell, Mary Baine. "[Busy Bees: Utopia, Dystopia, and the Very Small" (PDF - 2.53MB)](http://jmems.dukejournals.org/content/36/3/619.full.pdf). *Journal of Medieval and Early Modern Studies* 36, no. 3 (2006): 619–642. 
+Campbell, Mary Baine. "{{% resource_link "0876ed45-33dc-49e9-920b-b11a46a199cc" "Busy Bees: Utopia, Dystopia, and the Very Small\" (PDF - 2.53MB)" %}}. *Journal of Medieval and Early Modern Studies* 36, no. 3 (2006): 619–642. 
 
 ## Between Class 11 and 12
 
-Wylie, Sara Ann, Kirk Jaibert, et al. "[Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](http://www.tandfonline.com/doi/abs/10.1080/01972243.2014.875783)." *The Information Society: An International Journal* 30, no 2. (2014): 116–126. 
+Wylie, Sara Ann, Kirk Jaibert, et al. "{{% resource_link "f5e6cc87-1076-4d6a-a4a0-a5d21031d760" "Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research" %}}." *The Information Society: An International Journal* 30, no 2. (2014): 116–126. 
 
 *Prompt for Journal Entry (after the class when you practice)*
 
