@@ -7,8 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "This image depicts neurons in the brain. Throughout this course, students\
     \ examine the cultural dimensions of the sciences, including climate change and\
-    \ genomics.\_ (Image by {{% resource_link \"9ec724e5-dd98-4e7c-a4f1-b442770aed8e\"\
-    \ \"Seung Lab\" %}} on flickr. License CC: BY-NC-SA.)"
+    \ genomics.\_ (Image by [Seung Lab](https://www.flickr.com/photos/123689703@N04/13951001085)\
+    \ on flickr. License CC: BY-NC-SA.)"
   credit: ''
   image-alt: 'Colorful neurons are tangled around each other. '
 learning_resource_types: []
