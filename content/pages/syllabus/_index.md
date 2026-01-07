@@ -38,10 +38,10 @@ Gross, Alan G. *Starring the Text: The Place of Rhetoric in Science Studies*. So
 
 Hiltner, Ken. *Ecocriticism: The Essential Reader*. Routhledge, 2014. ISBN: 9780415508605.
 
-{{% resource_link "9316322f-c6c2-49d0-8500-a3c654d65187" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hackett, Edward J., Olga Amsterdamska, et al. *The Handbook of Science and Technology Studies*. The MIT Press, 2007. ISBN: 9780262083645.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262252249) Hackett, Edward J., Olga Amsterdamska, et al. *The Handbook of Science and Technology Studies*. The MIT Press, 2007. ISBN: 9780262083645.
 
 Wyer, Mary, Mary Barbercheck, et al. *Women, Science, and Technology: A Reader in Feminist Science Studies*. Routledge, 2013. ISBN:9780415521109.  
 
 *Recommended as a source for the process side of the course:*
 
-Taylor, Peter J., and Jeremy Szteiter. {{% resource_link "8c9e081b-5105-4087-9faa-5d1e5c7f8a8f" "*Taking Yourself Seriously: Processes of Research and Engagement*. (PDF)" %}} The Pumping Station, 2012. ISBN: 9780984921607.
+Taylor, Peter J., and Jeremy Szteiter. [*Taking Yourself Seriously: Processes of Research and Engagement*. (PDF)](https://www.cct.umb.edu/files/TYS2012.pdf) The Pumping Station, 2012. ISBN: 9780984921607.
