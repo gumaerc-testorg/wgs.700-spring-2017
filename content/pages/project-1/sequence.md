@@ -17,7 +17,7 @@ Generating questions for inquiry (KAQ framework \[Knowledge-Action-Questions; Ta
 
 *Focal Reading*
 
-Haraway, Donna. "{{% resource_link "b99fd5f4-e0be-4d67-b27f-f1ca1fbafa85" "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936" %}}." *Social Text* 11 (Winter 1984–1985): 20–64. 
+Haraway, Donna. "[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936](https://www.jstor.org/stable/466593?seq=1#page_scan_tab_contents)." *Social Text* 11 (Winter 1984–1985): 20–64. 
 
 *Prompt for Journal Entry (between class 2 and 3)*
 
@@ -29,7 +29,7 @@ Five-phase dialogue process (aka Dialogue Hour) to share and clarify what we are
 
 *Focal Reading*
 
-Duchamp, L. Timmel. "{{% resource_link "a248a5e0-9f0f-42d8-a10b-b5b783a22d90" "The Forbidden Words of Margaret A" %}}." 
+Duchamp, L. Timmel. "[The Forbidden Words of Margaret A](http://ltimmelduchamp.com/stories/margaret.pdf)." 
 
 *Prompt for Journal Entry (between class 3 and 4)*
 
@@ -41,7 +41,7 @@ Presentations and submission of written product = mock-up of a museum display an
 
 *Focal Reading*
 
- Delaney, Samuel R. "{{% resource_link "fa81d22f-1368-4d04-bd64-51812631daf0" "Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'" %}}" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
+ Delaney, Samuel R. "[Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'](https://muse.jhu.edu/chapter/36525)" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
 
 Prompt for Journal Entry (between class 4 and 5)
 

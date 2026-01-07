@@ -20,4 +20,4 @@ Your written product, the plan for practice proper, should have two levels: 1. A
 
 {{< resource uuid="58645480-3c1d-83a7-9d37-392435fb95b8" >}}
 
-(Image by Trent Erwin on {{% resource_link "a1f7a480-8408-41f0-bdfd-df2038e93fff" "Unsplash" %}}.)
+(Image by Trent Erwin on [Unsplash](https://unsplash.com/photos/UgA3Xvi3SkA).)
